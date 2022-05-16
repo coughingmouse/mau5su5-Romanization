@@ -52,7 +52,7 @@ For comparison,
 - impossible to be used irl
 
 ## Roadmap
-- [ ] None
+- [ ] ana: an a? a na?
 
 ## Contributing
 Whomever wishes to contribute may.
