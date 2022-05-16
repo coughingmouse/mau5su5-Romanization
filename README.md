@@ -1,4 +1,4 @@
-# Maosy Chinese Romanization
+# Maosy Mandarin Romanization
 Yet Another Chinese Romanization
 
 ## Description
