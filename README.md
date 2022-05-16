@@ -1,13 +1,10 @@
 # Maosy Chinese Romanization
-
 Yet Another Chinese Romanization
 
 ## Description
-
 There's bopomofo which makes great use of the Chinese phonology, but there's no equivalent romanization! So here I give a demonstration of a system that should do just that.
 
 ## Demonstration
-
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | g | g |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | ∅ | ȳ | é | ǎ | èi | ai | eo | ao | en | an | eg | ag |
@@ -55,7 +52,7 @@ For comparison,
 - impossible to be used irl
 
 ## Roadmap
-None
+- [ ] None
 
 ## Contributing
 Whomever wishes to contribute may.
