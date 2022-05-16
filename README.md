@@ -4,7 +4,7 @@ Yet Another Chinese Romanization
 
 ## Description
 
-There's bopomofo which makes great use of the Chinese phonology, but there's no equivalent form in latin alphabet! So here I give a demonstration of a system that should do just that.
+There's bopomofo which makes great use of the Chinese phonology, but there's no equivalent romanization! So here I give a demonstration of a system that should do just that.
 
 ## Demonstration
 
