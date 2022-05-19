@@ -5,11 +5,11 @@ Yet Another Chinese Romanization
 There's bopomofo which makes great use of the Chinese phonology, but there's no equivalent romanization! So here I give a demonstration of a system that should do just that.
 
 ## Demonstration
-|  | ∅ | ∅ | ∅ | i | i | o | o | n | n | g | g |
+|  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | ȳ | é | ǎ | èi | ai | eo | ao | en | an | eg | ag |
-| j | yi | ye | ya | | yai | yeo | yao | yen | yan | yeg | yag |
-| w | wo | we | wa | wei | wai | | | wen | wan | weg | wag |
+| ∅ | ȳ | é | ǎ | èi | ai | eo | ao | en | an | e(n)g | a(n)g |
+| j | yi | ye | ya | | yai | yeo | yao | yen | yan | ye(n)g | ya(n)g |
+| w | wo | we | wa | wei | wai | | | wen | wan | we(n)g | wa(n)g |
 | y | u | ve | | | | | | ven | van |  | |
 
 For comparison,
@@ -36,23 +36,23 @@ For comparison,
 | chi | cj |
 | ci | cy |
 | qi | ci |
-| g | q |
-| ng | g |
+| g- | q- |
 
+Duplicate ⟨n⟩ in coda before a vowel.
 
 ***
 
 ## Characteristics
 + phonemically more relevant
-+ compresses ⟨ng⟩ to ⟨g⟩
-+ no apostrophe, neutral tone marker, nor space necessary
++ may compress ⟨ng⟩ to ⟨g⟩
++ no apostrophe and neutral tone marker necessary
 * ⟨v⟩ used instead of ⟨x⟩
-- accents are used on ⟨y⟩, ⟨r⟩, and ⟨j⟩
-- mapping /k/ to ⟨q⟩, /ng/ to ⟨g⟩ is unusual
-- impossible to be used irl
+- more letters are used, as accents are used on ⟨y⟩, ⟨r⟩, and ⟨j⟩
+- mapping /k/ to ⟨q⟩, /-ng/ to ⟨g⟩, /-n/ to ⟨nn⟩ is unusual
+- ⟨n⟩ used too frequently because of ⟨nn⟩
 
 ## Roadmap
-- [ ] ana: an a? a na?
+None
 
 ## Contributing
 Whomever wishes to contribute may.
