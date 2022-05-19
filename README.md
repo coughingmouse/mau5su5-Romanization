@@ -8,8 +8,8 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | ∅ | ȳ | é | ǎ | èi | ai | eo | ao | en | an | e(n)g | a(n)g |
-| j | yi | ye | ya | | yai | yeo | yao | yen | yan | ye(n)g | ya(n)g |
-| w | wo | we | wa | wei | wai | | | wen | wan | we(n)g | wa(n)g |
+| j | i | ye | ya | | yai | yeo | yao | yen | yan | ye(n)g | ya(n)g |
+| w | o | we | wa | wei | wai | | | wen | wan | we(n)g | wa(n)g |
 | y | u | ve | | | | | | ven | van |  | |
 
 For comparison,
@@ -38,18 +38,14 @@ For comparison,
 | qi | ci |
 | g- | q- |
 
-Duplicate ⟨n⟩ in coda before a vowel.
-
 ***
 
 ## Characteristics
 + phonemically more relevant
 + may compress ⟨ng⟩ to ⟨g⟩
-+ no apostrophe and neutral tone marker necessary
 * ⟨v⟩ used instead of ⟨x⟩
 - more letters are used, as accents are used on ⟨y⟩, ⟨r⟩, and ⟨j⟩
-- mapping /k/ to ⟨q⟩, /-ng/ to ⟨g⟩, /-n/ to ⟨nn⟩ is unusual
-- ⟨n⟩ used too frequently because of ⟨nn⟩
+- mapping /k/ to ⟨q⟩ and /-ng/ to ⟨g⟩ is unusual
 
 ## Roadmap
 None
