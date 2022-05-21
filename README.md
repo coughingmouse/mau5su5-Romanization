@@ -24,7 +24,7 @@ For comparison,
 | else | |
 | - | - |
 | eh | ê |
-| ar | r |
+| ar | r̂ |
 | yai | yai |
 | io | yô |
 | ri | ĵ |
