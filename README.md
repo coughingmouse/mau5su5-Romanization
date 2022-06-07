@@ -7,10 +7,10 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 ## Demonstration
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | ŷ | ē | á | ěy | ày | ew | aw | en | an | e(n)g | a(n)g |
-| j | î | ie | ia | | | iew | iaw | ien | ian | ie(n)g | ia(n)g |
-| w | ô | oe | oa | oey | oay | | | oen | oan | oe(n)g | oa(n)g |
-| y | û | ue | | | | | | uen | uan |  | |
+| ∅ | ŷ | ē | á | ey̌ | aỳ | eô | aô | en̂ | an̂ | e(n)ĝ | a(n)ĝ |
+| j | î | iê | iâ | | | ieô | iaô | ien̂ | ian̂ | ie(n)ĝ | ia(n)ĝ |
+| w | ŵ | wê | wâ | weŷ | waŷ | | | wen̂ | wan̂ | we(n)ĝ | wa(n)ĝ |
+| y | û | uê | | | | | | uen̂ | uan̂ |  | |
 
 For comparison,
 
