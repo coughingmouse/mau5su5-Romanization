@@ -7,10 +7,10 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 ## Demonstration
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | ŷ | ē | á | ey̌ | aỳ | eô | aô | en̂ | an̂ | e(n)ĝ | a(n)ĝ |
-| j | î | iê | iâ | | | ieô | iaô | ien̂ | ian̂ | ie(n)ĝ | ia(n)ĝ |
-| w | ŵ | wê | wâ | weŷ | waŷ | | | wen̂ | wan̂ | we(n)ĝ | wa(n)ĝ |
-| y | û | uê | | | | | | uen̂ | uan̂ |  | |
+| ∅ | û | ē | á | eǐ | aì | eŵ | aŵ | en̂ | an̂ | e(n)ĝ | a(n)ĝ |
+| j | î | iê | iâ | | | ieŵ | iaŵ | ien̂ | ian̂ | ie(n)ĝ | ia(n)ĝ |
+| w | ŵ | wê | wâ | weî | waî | | | wen̂ | wan̂ | we(n)ĝ | wa(n)ĝ |
+| y | ŷ | yê | | | | | | yen̂ | yan̂ |  | |
 
 For comparison,
 
@@ -25,17 +25,17 @@ For comparison,
 | - | - |
 | eh | ê |
 | ar | r̂ |
-| yai | yai |
+| yai | iaî |
 | io | yô |
 | ri | ĵ |
 | shi | sĵ |
-| si | sŷ |
+| si | sû |
 | xi | sĵ |
 | zhi | zĵ |
-| zi | zŷ |
+| zi | zû |
 | ji | zî |
 | chi | cĵ |
-| ci | cŷ |
+| ci | cû |
 | qi | cî |
 | g- | q- |
 
