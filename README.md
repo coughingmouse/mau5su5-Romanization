@@ -45,8 +45,7 @@ For comparison,
 + phonemically more relevant
 + apostrophe not used
 + may compress ⟨ng⟩ to ⟨g⟩
-* ⟨v⟩, ⟨x⟩ not used
-- more letters are used, as accents are used on ⟨y⟩, ⟨r⟩, and ⟨j⟩
+* ⟨v⟩, ⟨x⟩, ⟨o⟩ not used
 - mapping /k/ to ⟨q⟩ and /-ng/ to ⟨g⟩ is unusual
 -not familiar-looking
 
