@@ -7,10 +7,10 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 ## Demonstration
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | û | ē | á | eǐ | aì | eŵ | aŵ | en̂ | an̂ | e(n)ĝ | a(n)ĝ |
-| j | î | iê | iâ | | | ieŵ | iaŵ | ien̂ | ian̂ | ie(n)ĝ | ia(n)ĝ |
-| w | ŵ | wê | wâ | weî | waî | | | wen̂ | wan̂ | we(n)ĝ | wa(n)ĝ |
-| y | ŷ | yê | | | | | | yen̂ | yan̂ |  | |
+| ∅ | u0 | e1 | a2 | êi3 | ai5 | ew0 | aw0 | en0 | an0 | e(n)g0 | a(n)g0 |
+| j | i0 | iê0 | ia0 | | | iew0 | iaw0 | ien0 | ian0 | ie(n)g0 | ia(n)g0 |
+| w | w0 | we0 | wa0 | wei0 | wai0 | | | wen0 | wan0 | we(n)g0 | wa(n)g0 |
+| y | y0 | yê0 | | | | | | yen0 | yan0 |  | |
 
 For comparison,
 
@@ -23,21 +23,21 @@ For comparison,
 
 | else | |
 | - | - |
-| eh | ê |
-| ar | r̂ |
-| yai | iaî |
-| io | yô |
-| ri | ĵ |
-| shi | sĵ |
-| si | sû |
-| xi | sĵ |
-| zhi | zĵ |
-| zi | zû |
-| ji | zî |
-| chi | cĵ |
-| ci | cû |
-| qi | cî |
-| g- | q- |
+| eh | ê0 |
+| ar | r0 |
+| yai | iai0 |
+| io | iwe0 |
+| ri | j0 |
+| shi | sj0 |
+| si | su0 |
+| xi | sj0 |
+| zhi | zj0 |
+| zi | zu0 |
+| ji | zi0 |
+| chi | cj0 |
+| ci | cu0 |
+| qi | ci0 |
+| g- | q-0 |
 
 ***
 
