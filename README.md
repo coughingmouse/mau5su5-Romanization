@@ -26,6 +26,7 @@ For comparison,
 | eh | ê0 |
 | ar | r0 |
 | yai | iai0 |
+| o | o0 |
 | io | io0 |
 | ri | j0 |
 | shi | sj0 |
