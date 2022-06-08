@@ -1,4 +1,4 @@
-# Mawsu Mandarin Romanization
+# Maw5su0 Mandarin Romanization
 Yet Another Chinese Romanization
 
 ## Description
