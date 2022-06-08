@@ -26,7 +26,7 @@ For comparison,
 | eh | ê0 |
 | ar | r0 |
 | yai | iai0 |
-| io | iwe0 |
+| io | io0 |
 | ri | j0 |
 | shi | sj0 |
 | si | su0 |
@@ -45,7 +45,7 @@ For comparison,
 + phonemically more relevant
 + apostrophe not used
 + may compress ⟨ng⟩ to ⟨g⟩
-* ⟨v⟩, ⟨x⟩, ⟨o⟩ not used
+* ⟨v⟩, ⟨x⟩ not used
 - mapping /k/ to ⟨q⟩ and /-ng/ to ⟨g⟩ is unusual
 -not familiar-looking
 
