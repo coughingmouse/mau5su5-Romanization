@@ -7,18 +7,18 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 ## Demonstration
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | -(u)0 | e1 | a2 | êi3 | ai5 | ew0 | aw0 | en0 | an0 | e(n)g0 | a(n)g0 |
-| j | i0 | iê0 | ia0 | | | iew0 | iaw0 | ien0 | ian0 | ie(n)g0 | ia(n)g0 |
-| w | w0 | we0 | wa0 | wêi0 | wai0 | | | wen0 | wan0 | we(n)g0 | wa(n)g0 |
-| y | y0 | yê0 | | | | | | yen0 | yan0 | ye(n)g0 | |
+| ∅ | -(u)0 | o1 | a2 | ei3 | ai5 | ow0 | aw0 | on0 | an0 | o(n)g0 | a(n)g0 |
+| j | i0 | ie0 | ia0 | | | iow0 | iaw0 | ion0 | ian0 | io(n)g0 | ia(n)g0 |
+| w | w0 | wo0 | wa0 | wei0 | wai0 | | | won0 | wan0 | wo(n)g0 | wa(n)g0 |
+| y | y0 | ye0 | | | | | | yon0 | yan0 | yo(n)g0 | |
 
 | else | |
 | - | - |
-| eh | ê0 |
+| eh | e0 |
 | ar | r0 |
 | yai | iai0 |
-| o | o0 |
-| io | io0 |
+| o | ó0 |
+| io | ió0 |
 | ri | j0 |
 | shi | sj0 |
 | si | su0 |
@@ -59,7 +59,11 @@ For comparison,
 
 ## Design Principles
 
-* 
+* Use bopomofo-based two vowel analysis 
+* Be readable
+* Make sense
+* Be usable
+* Be typable with Qwerty keyboard
 
 ## Roadmap
 None
