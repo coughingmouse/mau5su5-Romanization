@@ -7,19 +7,10 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 ## Demonstration
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | u0 | e1 | a2 | êi3 | ai5 | ew0 | aw0 | en0 | an0 | e(n)g0 | a(n)g0 |
+| ∅ | -(u)0 | e1 | a2 | êi3 | ai5 | ew0 | aw0 | en0 | an0 | e(n)g0 | a(n)g0 |
 | j | i0 | iê0 | ia0 | | | iew0 | iaw0 | ien0 | ian0 | ie(n)g0 | ia(n)g0 |
 | w | w0 | we0 | wa0 | wêi0 | wai0 | | | wen0 | wan0 | we(n)g0 | wa(n)g0 |
-| y | y0 | yê0 | | | | | | yen0 | yan0 |  | |
-
-For comparison,
-
-|  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
-| - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | i | ē | á | ěi | ài | ·ou | ao | en | an | eng | ang |
-| j | yi | ye | ya | | | you | yao | yen | yan | yong | yang |
-| w | wu | wo | wa | wei | wai | | | wen | wan | wong | wang |
-| y | ü | üe | | | | | | üen | üan |  | |
+| y | y0 | yê0 | | | | | | yen0 | yan0 | ye(n)g0 | |
 
 | else | |
 | - | - |
@@ -40,15 +31,35 @@ For comparison,
 | qi | ci0 |
 | g- | q-0 |
 
+For comparison,
+
+|  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
+| - | - | - | - | - | - | - | - | - | - | - | - |
+| ∅ | ˙(ㄭ) | ㄜ | ㄚˊ | ㄟˇ | ㄞˋ | ㄡˉ | ㄠ | ㄣ | ㄢ | ㄥ | ㄤ |
+| j | ㄧ | ㄧㄝ | ㄧㄚ | | | ㄧㄡ | ㄧㄠ | ㄧㄣ | ㄧㄢ | ㄧㄥ | ㄧㄤ |
+| w | ㄨ | ㄨㄛ | ㄨㄚ | ㄨㄟ | ㄨㄞ | | | ㄨㄣ | ㄨㄢ | ㄨㄥ | ㄨㄤ |
+| y | ㄩ | ㄩㄝ | | | | | | ㄩㄣ | ㄩㄢ | ㄩㄥ | |
+
+|  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
+| - | - | - | - | - | - | - | - | - | - | - | - |
+| ∅ | -i | ē | á | ěi | ài | ·ou | ao | en | an | eng | ang |
+| j | yi/-i | ye/-ie | ya/-ia | | | you/-iao | yao/-iao | yin/-in | yan/-ian | ying/-ing | yang/-iang |
+| w | wu/-u | wo/-uo | wa/-ua | wei/-ui | wai/-uai | | | wen/-un | wan/-uan | weng/-ong | wang/-uang |
+| y | yu/-ü | yue/-üe | | | | | | yun/-ün | yuan/-üan | yong/-iong | |
+
 ***
 
 ## Characteristics
 + phonemically more relevant
 + apostrophe not used
 + may compress ⟨ng⟩ to ⟨g⟩
-* ⟨v⟩, ⟨x⟩ not used
+* ⟨v⟩ and ⟨x⟩ not used
 - mapping /k/ to ⟨q⟩ and /-ng/ to ⟨g⟩ is unusual
--not familiar-looking
+- not familiar-looking
+
+## Design Principles
+
+* 
 
 ## Roadmap
 None
