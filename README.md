@@ -60,7 +60,6 @@ For comparison,
 - not familiar-looking
 
 ## Design Principles
-
 * Use bopomofo-based two vowel analysis 
 * Be readable
 * Make sense
