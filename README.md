@@ -1,4 +1,4 @@
-# Maw5su0 Mandarin Romanization
+# Maw⁵su⁰ Mandarin Romanization
 Yet Another Chinese Romanization
 
 ## Description
@@ -7,29 +7,29 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 ## Demonstration
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | -(u)0 | o1 | a2 | ei3 | ai5 | ow0 | aw0 | on0 | an0 | o(n)g0 | a(n)g0 |
-| j | i0 | ie0 | ia0 | | | iow0 | iaw0 | ion0 | ian0 | io(n)g0 | ia(n)g0 |
-| w | w0 | wo0 | wa0 | wei0 | wai0 | | | won0 | wan0 | wo(n)g0 | wa(n)g0 |
-| y | y0 | ye0 | | | | | | yon0 | yan0 | yo(n)g0 | |
+| ∅ | -(u)⁰ | o¹ | a² | ei³ | ai⁵ | ow⁰ | aw⁰ | on⁰	| an⁰ | o(n)g⁰ | a(n)g⁰ |
+| j | i⁰ | ie⁰ | ia⁰ | | | iow⁰ | iaw⁰ | ion⁰ | ian⁰ | io(n)g⁰ | ia(n)g⁰ |
+| w | w⁰ | wo⁰ | wa⁰ | wei⁰ | wai⁰ | | | won⁰ | wan⁰ | wo(n)g⁰ | wa(n)g⁰ |
+| y | y⁰ | ye⁰ | | | | | | yon⁰ | yan⁰ | yo(n)g⁰ | |
 
 | else | |
 | - | - |
-| eh | e0 |
-| ar | r0 |
-| yai | iai0 |
-| o | ó0 |
-| io | ió0 |
-| ri | j0 |
-| shi | sj0 |
-| si | su0 |
-| xi | sj0 |
-| zhi | zj0 |
-| zi | zu0 |
-| ji | zi0 |
-| chi | cj0 |
-| ci | cu0 |
-| qi | ci0 |
-| g- | q-0 |
+| eh | e⁰ |
+| ar | r⁰ |
+| yai | iai⁰ |
+| o | ó⁰ |
+| io | ió⁰ |
+| ri | j⁰ |
+| shi | sj⁰ |
+| si | su⁰ |
+| xi | sj⁰ |
+| zhi | zj⁰ |
+| zi | zu⁰ |
+| ji | zi⁰ |
+| chi | cj⁰ |
+| ci | cu⁰ |
+| qi | ci⁰ |
+| g- | q-⁰ |
 
 For comparison,
 
