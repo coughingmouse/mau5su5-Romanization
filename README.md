@@ -7,10 +7,10 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 ## Demonstration
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | -(u)⁰ | o¹ | a² | ei³ | ai⁵ | ow⁰ | aw⁰ | on⁰	| an⁰ | o(n)g⁰ | a(n)g⁰ |
-| j | i⁰ | ie⁰ | ia⁰ | | | iow⁰ | iaw⁰ | ion⁰ | ian⁰ | io(n)g⁰ | ia(n)g⁰ |
-| w | w⁰ | wo⁰ | wa⁰ | wei⁰ | wai⁰ | | | won⁰ | wan⁰ | wo(n)g⁰ | wa(n)g⁰ |
-| y | y⁰ | ye⁰ | | | | | | yon⁰ | yan⁰ | yo(n)g⁰ | |
+| ∅ | -(u)⁰ | o¹ | a² | ei³ | ai⁵ | ow⁰ | aw⁰ | on⁰	| an⁰ | og⁰ | ag⁰ |
+| j | i⁰ | ie⁰ | ia⁰ | | | iow⁰ | iaw⁰ | ion⁰ | ian⁰ | iog⁰ | iag⁰ |
+| w | w⁰ | wo⁰ | wa⁰ | wei⁰ | wai⁰ | | | won⁰ | wan⁰ | wog⁰ | wag⁰ |
+| y | y⁰ | ye⁰ | | | | | | yon⁰ | yan⁰ | yog⁰ | |
 
 | else | |
 | - | - |
@@ -32,6 +32,7 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 | g- | q-⁰ |
 
 Tonal numbers can be written with regular numerals instead of superscripts. They cannot be omitted, however.
+G's can be written with ng's.
 
 For comparison,
 
@@ -54,7 +55,7 @@ For comparison,
 ## Characteristics
 + phonemically more relevant
 + apostrophe not used
-+ may compress ⟨ng⟩ to ⟨g⟩
++ shorter
 * ⟨v⟩ and ⟨x⟩ not used
 - mapping /k/ to ⟨q⟩ and /-ng/ to ⟨g⟩ is unusual
 - not familiar-looking
