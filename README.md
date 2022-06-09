@@ -1,4 +1,4 @@
-# Maw⁵su⁰ Mandarin Romanization
+# Maw⁵su⁰ Standard Mandarin Romanization
 Yet Another Chinese Romanization
 
 ## Description
@@ -30,6 +30,8 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 | ci | cu⁰ |
 | qi | ci⁰ |
 | g- | q-⁰ |
+
+Tonal numbers can be written with regular numerals instead of superscripts. They cannot be omitted, however.
 
 For comparison,
 
@@ -66,7 +68,7 @@ For comparison,
 * Be typable with Qwerty keyboard
 
 ## Roadmap
-None
+Re-evaluation of phonemes considering historic phones and phonemes.
 
 ## Contributing
 Whomever wishes to contribute may.
