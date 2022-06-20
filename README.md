@@ -1,4 +1,4 @@
-# Maw5su Standard Mandarin Romanization
+# Maw3su5 Standard Mandarin Romanization
 Yet Another Chinese Romanization
 
 ## Description
@@ -7,18 +7,18 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 ## Demonstration
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (-?u-) | o1 | a2 | ei3 | ai5 | ow | aw | on | an | og | ag |
-| j | i | ie | ia | | | iow | iaw | ion | ian | iog | iag |
-| w | w | wo | wa | wei | wai | | | won | wan | wog | wag |
-| y | y | yo | | | | | | yon | yan | yog | |
+| ∅ | (-?u-) | e1 | a2 | ei3 | ai5 | ew | aw | en | an | eg | ag |
+| j | i | ie | ia | | | iew | iaw | ien | ian | ieg | iag |
+| w | w | we | wa | wei | wai | | | wen | wan | weg | wag |
+| y | y | ye | | | | | | yen | yan | yeg | |
 
 | else | |
 | - | - |
-| eh | é |
+| eh | á |
 | ar | r |
 | yai | iai |
-| o | ó |
-| io | ió |
+| o | o |
+| io | io |
 | ri | j |
 | shi | sj |
 | si | su |
