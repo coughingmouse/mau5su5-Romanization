@@ -14,8 +14,8 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 
 | else | |
 | - | - |
-| eh | á |
-| ar | r |
+| ê | á |
+| er | r |
 | yai | iai |
 | o | o |
 | io | io |
