@@ -34,7 +34,7 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 * Tonal numbers and hyphens cannot be omitted.
 * Neutral tone is marked by hyphenating on the sides of the syllable adjacent to alphabets.
 * N can be omitted before G's.
-* E can be inserted in between medial and coda.
+* E can be inserted in between adjacent medial and coda.
 
 For comparison,
 
