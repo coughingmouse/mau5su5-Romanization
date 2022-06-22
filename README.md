@@ -11,6 +11,7 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 | j | i | ie | ia | | | iw | iaw | in | ian | ing | iang |
 | w | w | we | wa | wi | wai | | | wn | wan | wng | wang |
 | y | y | ye | | | | | | yn | yan | yng | |
+
 | else | |
 | - | - |
 | ê | á |
