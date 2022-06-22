@@ -7,11 +7,10 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 ## Demonstration
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (-?u-) | e1 | a2 | ei3 | ai5 | ew | aw | en | an | eg | ag |
-| j | i | ie | ia | | | iew | iaw | ien | ian | ieg | iag |
-| w | w | we | wa | wei | wai | | | wen | wan | weg | wag |
-| y | y | ye | | | | | | yen | yan | yeg | |
-
+| ∅ | (-?u-) | e1 | a2 | ei3 | ai5 | ew | aw | en | an | eng | ang |
+| j | i | ie | ia | | | iw | iaw | in | ian | ing | iang |
+| w | w | we | wa | wi | wai | | | wn | wan | wng | wang |
+| y | y | ye | | | | | | yn | yan | yng | |
 | else | |
 | - | - |
 | ê | á |
@@ -33,7 +32,8 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 
 * Tonal numbers and hyphens cannot be omitted.
 * Neutral tone is marked by hyphenating on the sides of the syllable adjacent to alphabets.
-* G's can be written with ng's.
+* N can be omitted before G's.
+* E can be inserted in between medial and coda.
 
 For comparison,
 
@@ -59,7 +59,6 @@ For comparison,
 + shorter
 * ⟨v⟩ and ⟨x⟩ not used
 - mapping /k/ to ⟨q⟩ and /-ng/ to ⟨g⟩ is unusual
-- not familiar-looking
 
 ## Design Principles
 * Use bopomofo-based two vowel analysis 
