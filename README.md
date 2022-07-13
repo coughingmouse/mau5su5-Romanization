@@ -8,9 +8,9 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | ∅ | (-?u-) | e1 | a2 | ei3 | ai5 | ew | aw | en | an | eng | ang |
-| j | i | ie | ia | | | iw | iaw | in | ian | ing | iang |
-| w | w | we | wa | wi | wai | | | wn | wan | wng | wang |
-| y | y | ye | | | | | | yn | yan | yng | |
+| j | i | ie | ia | | | iew | iaw | ien | ian | ieng | iang |
+| w | w | we | wa | wei | wai | | | wen | wan | weng | wang |
+| y | y | ye | | | | | | yen | yan | yeng | |
 
 | else | |
 | - | - |
@@ -34,7 +34,6 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 * Tonal numbers and hyphens cannot be omitted.
 * Neutral tone is marked by hyphenating on the sides of the syllable adjacent to alphabets.
 * N can be omitted before G's.
-* E can be inserted in between adjacent medial and coda.
 
 For comparison,
 
@@ -55,9 +54,8 @@ For comparison,
 ***
 
 ## Characteristics
-+ phonemically more relevant
++ phonemically more relevant and consistent
 + apostrophe not used
-+ shorter
 * ⟨v⟩ and ⟨x⟩ not used
 - mapping /k/ to ⟨q⟩ and /-ng/ to ⟨g⟩ is unusual
 
