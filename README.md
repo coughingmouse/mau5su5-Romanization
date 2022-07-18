@@ -22,7 +22,7 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 | ri | j |
 | shi | sj |
 | si | su |
-| xi | sj |
+| xi | si |
 | zhi | zj |
 | zi | zu |
 | ji | zi |
