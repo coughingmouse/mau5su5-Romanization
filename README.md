@@ -1,39 +1,47 @@
 # Maw3su5 Standard Mandarin Romanization
+
 Yet Another Chinese Romanization
 
 ## Description
-There's bopomofo which makes great use of the Chinese phonology, but there's no equivalent romanization! So here I give a demonstration of a system that should do just that.
+
+There's bopomofo which makes great use of the Chinese phonology, but there's no equivalent romanization! So here I give a demonstration of a system that should do just that by remapping Pinyin.
 
 ## Demonstration
+
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (-?u-) | e1 | a2 | ei3 | ai5 | ew | aw | en | an | eng | ang |
+| ∅ | uh | e1 | a2 | ei3 | ai5 | ewh | aw | en | an | eng | ang |
 | j | i | ie | ia | | | iew | iaw | ien | ian | ieng | iang |
 | w | w | we | wa | wei | wai | | | wen | wan | weng | wang |
 | y | y | ye | | | | | | yen | yan | yeng | |
 
+* Tones must be marked by 1 for ien1pieng2, 2 for iang2pieng2, 3 for sjang3, 5 for qy5, and h for cieng1.
+
+Other phonemes are deriven from Pinyin but the following exceptions:
+
 | else | |
 | - | - |
-| ê | á |
-| er | r |
-| yai | iai |
-| o | o |
-| io | io |
-| ri | j |
-| shi | sj |
-| si | su |
-| xi | si |
-| zhi | zj |
-| zi | zu |
-| ji | zi |
-| chi | cj |
-| ci | cu |
-| qi | ci |
-| g? | q? |
+| ê | äh |
+| er | rh |
+| yai | iaih |
+| o | oh |
+| io | ioh |
+| ri | jh |
+| shi | sjh |
+| si | suh |
+| xi | sih |
+| zhi | zjh |
+| zi | zuh |
+| ji | zih |
+| chi | cjh |
+| ci | cuh |
+| qi | cih |
+| g? | q?h |
+| h? | x?h |
 
-* Tonal numbers and hyphens cannot be omitted.
-* Neutral tone is marked by hyphenating on the sides of the syllable adjacent to alphabets.
-* N can be omitted before G's.
+* Every part of Standard Mandarin syllable should be present, especially the tonal markings.
+* The system can be altered to let ⟨n⟩ be omitted before ⟨g⟩.
+* The system can also be altered to omit ⟨e⟩ before coda.
 
 For comparison,
 
@@ -54,17 +62,22 @@ For comparison,
 ***
 
 ## Characteristics
-+ phonemically more relevant and consistent
-+ apostrophe not used
-* ⟨v⟩ and ⟨x⟩ not used
-- mapping /k/ to ⟨q⟩ and /-ng/ to ⟨g⟩ is unusual
++ phonemically more relevant and consistent, possibly providing better learning experience for both L1 and L2 users
++ apostrophe not used within core system to let for other uses
++ hyphen too
++ if we exclude Pinyin and its derivatives, this system is actually more in line with existing uses of the letters
+
+* ⟨v⟩ still not used
+
+- mapping /k/ to ⟨q⟩, /-ng/ to ⟨g⟩, /x/ to ⟨x⟩ is unusual in the context of transcription of the sort
 
 ## Design Principles
 * Use bopomofo-based two vowel analysis 
 * Be readable
 * Make sense
 * Be usable
-* Be typable with Qwerty keyboard
+* Be typable with Qwerty keyboard for usability
+* Expanded letter should be typable with US international keyboard
 
 ## Roadmap
 Re-evaluation of phonemes considering historic phones and phonemes.
