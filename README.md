@@ -10,10 +10,10 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (?uh) | e1 | a2 | ei3 | ai5 | ewh | aw | en | an | eng | ang |
-| j | i | ie | ia | | | iew | iaw | ien | ian | ieng | iang |
-| w | w | we | wa | wei | wai | | | wen | wan | weng | wang |
-| y | y | ye | | | | | | yen | yan | yeng | |
+| ∅ | (?uh) | e1 | a2 | ei3 | ai5 | ewh | aw | en | an | eg | ag |
+| j | i | ie | ia | | | iew | iaw | ien | ian | ieg | iag |
+| w | w | we | wa | wei | wai | | | wen | wan | weg | wag |
+| y | y | ye | | | | | | yen | yan | yeg | |
 
 * Tones must be marked by 1 for ien1pieng2, 2 for iang2pieng2, 3 for sjang3, 5 for qy5, and h for cieng1.
 
@@ -40,8 +40,10 @@ Other phonemes are deriven from Pinyin but the following exceptions:
 | h? | x?h |
 
 * Every part of Standard Mandarin syllable should be present, especially the tonal markings.
-* The system can be altered to let ⟨n⟩ be omitted before ⟨g⟩.
+* The system can be altered to add ⟨n⟩ before ⟨g⟩.
+* The system can be altered to add ⟨u⟩ after ⟨y⟩ or use ⟨ü⟩ instead of ⟨y⟩.
 * The system can also be altered to omit ⟨e⟩ before coda.
+* Diphthong ⟨ae⟩ is a valid but depressed alternative to ⟨ä⟩.
 
 For comparison,
 
@@ -80,7 +82,7 @@ For comparison,
 * Expanded letter should be typable with US international keyboard
 
 ## Roadmap
-Re-evaluation of phonemes considering historic phones and phonemes.
++ Re-evaluation of phonemes considering historic phones and phonemes.
 
 ## Contributing
 Whomever wishes to contribute may.
