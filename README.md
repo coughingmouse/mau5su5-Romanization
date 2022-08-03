@@ -10,34 +10,33 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (?uh) | e1 | a2 | ei3 | ai5 | ewh | aw | en | an | eg | ag |
+| ∅ | (?u) | e1 | a2 | ei3 | ai5 | ew(x) | aw | en | an | eg | ag |
 | j | i | ie | ia | | | iew | iaw | ien | ian | ieg | iag |
 | w | w | we | wa | wei | wai | | | wen | wan | weg | wag |
 | y | y | ye | | | | | | yen | yan | yeg | |
 
-* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, 5 for qyu5, and h for cing1.
+* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qyu5. X is added after toneless (cing1) syllable when before other alphabet.
 
-Other phonemes are deriven from Pinyin but the following exceptions:
+Other phonemes are deriven from Pinyin but there are these following exceptions:
 
 | else | |
 | - | - |
-| ê | äh |
-| er | rh |
-| yai | iaih |
-| o | oh |
-| io | ioh |
-| ri | jh |
-| shi | sjh |
-| si | suh |
-| xi | sih |
-| zhi | zjh |
-| zi | zuh |
-| ji | zih |
-| chi | cjh |
-| ci | cuh |
-| qi | cih |
-| g? | q?h |
-| h? | x?h |
+| ê | ä |
+| er | r |
+| yai | iai |
+| o | o |
+| io | io |
+| ri | j |
+| shi | sj |
+| si | su |
+| xi | si |
+| zhi | zj |
+| zi | zu |
+| ji | zi |
+| chi | cj |
+| ci | cu |
+| qi | ci |
+| g? | q? |
 
 * Every part of Standard Mandarin syllable should be present, especially the tonal markings.
 * The system can be altered to add ⟨n⟩ before ⟨g⟩.
