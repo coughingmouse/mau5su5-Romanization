@@ -15,7 +15,7 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 | w | w | we | wa | wei | wai | | | wen | wan | weg | wag |
 | y | y | ye | | | | | | yen | yan | yeg | |
 
-* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qyu5. h is added after toneless (cing1) syllable when before other alphabet.
+* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qyu5. ⟨h⟩ is added after toneless (cing1) syllable when before other alphabet. It is allowed to use ⟨x⟩ for this purpose coherently.
 
 Other phonemes are deriven from Pinyin but there are these following exceptions:
 
