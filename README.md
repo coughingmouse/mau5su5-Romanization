@@ -10,12 +10,12 @@ There's bopomofo which makes great use of the Chinese phonology, but there's no 
 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (?u) | e1 | a2 | ei3 | ai5 | ew(x) | aw | en | an | eg | ag |
+| ∅ | (?u) | e1 | a2 | ei3 | ai5 | ew(h) | aw | en | an | eg | ag |
 | j | i | ie | ia | | | iew | iaw | ien | ian | ieg | iag |
 | w | w | we | wa | wei | wai | | | wen | wan | weg | wag |
 | y | y | ye | | | | | | yen | yan | yeg | |
 
-* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qyu5. X is added after toneless (cing1) syllable when before other alphabet.
+* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qyu5. h is added after toneless (cing1) syllable when before other alphabet.
 
 Other phonemes are deriven from Pinyin but there are these following exceptions:
 
@@ -68,7 +68,7 @@ For comparison,
 + hyphen too
 + if we exclude Pinyin and its derivatives, this system is actually more in line with existing uses of the letters
 
-* ⟨v⟩ still not used
+* ⟨v⟩, ⟨x⟩ not used
 
 - mapping /k/ to ⟨q⟩, /-ng/ to ⟨g⟩, /x/ to ⟨x⟩ is unusual in the context of transcription of the sort
 
