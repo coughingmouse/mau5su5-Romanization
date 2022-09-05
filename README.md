@@ -32,12 +32,15 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 | shi | sj |
 | si | su |
 | xi | si |
+| xu | sy |
 | zhi | zj |
 | zi | zu |
 | ji | zi |
+| ju | zy |
 | chi | cj |
 | ci | cu |
 | qi | ci |
+| qu | cy |
 | g? | q? |
 
 * Every part of Standard Mandarin syllable should be present, especially the tonal markings.
