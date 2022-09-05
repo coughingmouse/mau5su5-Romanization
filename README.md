@@ -6,14 +6,16 @@ Yet Another Chinese Romanization
 
 There's bopomofo which makes great use of the Chinese phonology, but there's no equivalent romanization! So here I give a demonstration of a system that should do just that by remapping Pinyin.
 
+I made it for just that, but I feel like it could be more useful so I've set more casual variant as default.
+
 ## Demonstration
 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (?u) | e1 | a2 | ei3 | ai5 | ew(h) | aw | en | an | eg | ag |
-| j | i | ie | ia | | | iew | iaw | ien | ian | ieg | iag |
-| w | w | we | wa | wei | wai | | | wen | wan | weg | wag |
-| y | y | ye | | | | | | yen | yan | yeg | |
+| ∅ | (?u) | e1 | a2 | ei3 | ai5 | ew(h) | aw | en | an | eng | ang |
+| j | i | ie | ia | | | iew | iaw | ien | ian | ieng | iang |
+| w | w | we | wa | wei | wai | | | wen | wan | weng | wang |
+| y | y | ye | | | | | | yen | yan | yeng | |
 
 * Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qyu5. ⟨h⟩ is added after toneless (cing1) syllable when before other alphabet. It is allowed to use ⟨x⟩ for this purpose coherently.
 
@@ -39,9 +41,10 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 | g? | q? |
 
 * Every part of Standard Mandarin syllable should be present, especially the tonal markings.
-* The system can be altered to add ⟨n⟩ before ⟨g⟩.
-* The system can be altered to add ⟨u⟩ after ⟨y⟩ or use ⟨ü⟩ instead of ⟨y⟩.
-* The system can also be altered to omit ⟨e⟩ before coda.
+* The system can be altered to remove ⟨n⟩ before ⟨g⟩.
+* The system can be altered to add ⟨u⟩ after ⟨y⟩ and ⟨w⟩.
+* The system can be altered to use ⟨ü⟩ instead of ⟨y⟩, ⟨u⟩ instead of ⟨w⟩, and blank for ⟨u⟩.
+* The system can also be altered to omit ⟨e⟩ before coda either after glide or regardless.
 * Diphthong ⟨ae⟩ is a valid but depressed alternative to ⟨ä⟩.
 
 For comparison,
