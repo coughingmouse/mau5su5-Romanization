@@ -12,12 +12,12 @@ I made it for just that, but I feel like it could be more useful so I've set mor
 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (?u) | e1 | a2 | ei3 | ai5 | ew(h) | aw | en | an | eng | ang |
+| ∅ | (?u) | e1 | a2 | ei3 | ai5 | ew(x) | aw | en | an | eng | ang |
 | j | i | ie | ia | | | iw | iaw | in | ian | ing | iang |
 | w | w | we | wa | wi | wai | | | wn | wan | wng | wang |
 | y | y | ye | | | | | | yn | yan | yng | |
 
-* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qyu5. ⟨h⟩ is added after toneless (cing1) syllable when before other alphabet. It is allowed to use ⟨x⟩ for this purpose coherently.
+* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qy5. ⟨h⟩ is added after toneless (cing1) syllable when before other alphabet.
 
 Other phonemes are deriven from Pinyin but there are these following exceptions:
 
@@ -74,9 +74,10 @@ For comparison,
 + hyphen too
 + if we exclude Pinyin and its derivatives, this system is actually more in line with existing uses of the letters
 
-* ⟨v⟩, ⟨x⟩ not used
+* ⟨v⟩ not used
 
 - mapping /k/ to ⟨q⟩ (and /-ng/ to ⟨g⟩) is unusual in the context of transcription of the sort
+- using ⟨x⟩ not as an alphabet is new
 
 ## Design Principles
 * Use bopomofo-based two vowel analysis 
