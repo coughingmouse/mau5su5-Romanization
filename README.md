@@ -13,9 +13,9 @@ I made it for just that, but I feel like it could be more useful so I've set mor
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | ∅ | (?u) | e1 | a2 | ei3 | ai5 | ew(h) | aw | en | an | eng | ang |
-| j | i | ie | ia | | | iew | iaw | ien | ian | ieng | iang |
-| w | w | we | wa | wei | wai | | | wen | wan | weng | wang |
-| y | y | ye | | | | | | yen | yan | yeng | |
+| j | i | ie | ia | | | iw | iaw | in | ian | ing | iang |
+| w | w | we | wa | wi | wai | | | wn | wan | wng | wang |
+| y | y | ye | | | | | | yn | yan | yng | |
 
 * Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qyu5. ⟨h⟩ is added after toneless (cing1) syllable when before other alphabet. It is allowed to use ⟨x⟩ for this purpose coherently.
 
@@ -47,7 +47,7 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 * The system can be altered to remove ⟨n⟩ before ⟨g⟩.
 * The system can be altered to add ⟨u⟩ after ⟨y⟩ and ⟨w⟩.
 * The system can be altered to use ⟨ü⟩ instead of ⟨y⟩, ⟨u⟩ instead of ⟨w⟩, and blank for ⟨u⟩.
-* The system can also be altered to omit ⟨e⟩ before coda either after glide or regardless.
+* The system can also be altered to include ⟨e⟩ before coda either after glide or regardless.
 * Diphthong ⟨ae⟩ is a valid but depressed alternative to ⟨ä⟩.
 
 For comparison,
@@ -76,7 +76,7 @@ For comparison,
 
 * ⟨v⟩, ⟨x⟩ not used
 
-- mapping /k/ to ⟨q⟩, /-ng/ to ⟨g⟩, /x/ to ⟨x⟩ is unusual in the context of transcription of the sort
+- mapping /k/ to ⟨q⟩ (and /-ng/ to ⟨g⟩) is unusual in the context of transcription of the sort
 
 ## Design Principles
 * Use bopomofo-based two vowel analysis 
