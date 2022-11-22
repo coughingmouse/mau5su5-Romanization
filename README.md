@@ -12,18 +12,18 @@ I made it for just that, but I feel like it could be more useful so I've set mor
 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (?u) | e1 | a2 | ei3 | ai5 | eu(x) | au | en | an | eng | ang |
+| ∅ | (?ux) | e1 | a2 | ei3 | ai5 | eux | au | en | an | eng | ang |
 | j | i | ie | ia | | | iu | iau | in | ian | ing | iang |
 | w | o | oe | oa | oi | oai | | | on | oan | ong | oang |
 | y | y | ye | | | | | | yn | yan | yng | |
 
-* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qy5. ⟨h⟩ is added after toneless (cing1) syllable when before other alphabet.
+* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qy5. ⟨x⟩ is added after toneless (cing1) syllable.
 
 Other phonemes are deriven from Pinyin but there are these following exceptions:
 
 | else | |
 | - | - |
-| ê | ä |
+| ê | ae |
 | er | r |
 | yai | iai |
 | o | uo |
@@ -46,9 +46,8 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 * Every part of Standard Mandarin syllable should be present, especially the tonal markings.
 * The system can be altered to remove ⟨n⟩ before ⟨g⟩.
 * The system can be altered to add ⟨u⟩ after ⟨y⟩.
-* The system can be altered to use ⟨ü⟩ instead of ⟨y⟩.
+* The system can be altered to use ⟨ü⟩ instead of ⟨y⟩ and ⟨ä⟩ instead of ⟨ae⟩.
 * The system can also be altered to include ⟨e⟩ before coda either after glide or regardless.
-* Diphthong ⟨ae⟩ is a valid but depressed alternative to ⟨ä⟩.
 
 For comparison,
 
