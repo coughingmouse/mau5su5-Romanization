@@ -1,4 +1,4 @@
-# Mau3su5 Standard Mandarin Romanization
+# Mau5su5 Standard Mandarin Romanization
 
 Yet Another Chinese Romanization
 
