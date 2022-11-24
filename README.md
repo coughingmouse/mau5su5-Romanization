@@ -1,4 +1,4 @@
-# Mau5su5 Standard Mandarin Romanization
+# Mau\su\ Standard Mandarin Romanization
 
 Yet Another Chinese Romanization
 
@@ -15,7 +15,7 @@ I made it for just that, but I feel like it could be more useful so I've set mor
 | ∅ | (?ux) | e- | a/ | eiv | ai\ | eux | au | en | an | eng | ang |
 | j | i | ie | ia | | | iu | iau | in | ian | ing | iang |
 | w | o | oe | oa | oi | oai | | | on | oan | ong | oang |
-| y | y | ye | | | | | | yn | yan | yng | |
+| y | ü | üe | | | | | | ün | üan | üng | |
 
 * Tones can be marked by 1 for in-ping/, 2 for iang/ping/, 3 for sjangv, and 5 for qy\. ⟨x⟩ is added after toneless (cing-) syllable.
 
@@ -23,7 +23,7 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 
 | else | |
 | - | - |
-| ê | ae |
+| ê | ä |
 | er | r |
 | yai | iai |
 | o | uo |
@@ -44,9 +44,9 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 | g? | q? |
 
 * Every part of Standard Mandarin syllable should be present, especially the tonal markings.
+* ⟨y⟩ instead of ⟨ü⟩ and ⟨ae⟩ instead of ⟨ä⟩ can be used.
 * The system can be altered to remove ⟨n⟩ before ⟨g⟩.
-* The system can be altered to add ⟨u⟩ after ⟨y⟩.
-* The system can be altered to use ⟨ü⟩ instead of ⟨y⟩ and ⟨ä⟩ instead of ⟨ae⟩.
+* The system can be altered to use ⟨yu⟩ instead of ⟨ü⟩.
 * The system can also be altered to include ⟨e⟩ before coda either after glide or regardless.
 
 For comparison,
