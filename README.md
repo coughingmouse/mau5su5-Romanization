@@ -12,12 +12,12 @@ I made it for just that, but I feel like it could be more useful so I've set mor
 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (?ux) | e1 | a2 | ei3 | ai5 | eux | au | en | an | eng | ang |
+| ∅ | (?ux) | e- | a/ | eiv | ai\ | eux | au | en | an | eng | ang |
 | j | i | ie | ia | | | iu | iau | in | ian | ing | iang |
 | w | o | oe | oa | oi | oai | | | on | oan | ong | oang |
 | y | y | ye | | | | | | yn | yan | yng | |
 
-* Tones must be marked by 1 for in1ping2, 2 for iang2ping2, 3 for sjang3, and 5 for qy5. ⟨x⟩ is added after toneless (cing1) syllable.
+* Tones can be marked by 1 for in-ping/, 2 for iang/ping/, 3 for sjangv, and 5 for qy\. ⟨x⟩ is added after toneless (cing-) syllable.
 
 Other phonemes are deriven from Pinyin but there are these following exceptions:
 
@@ -73,8 +73,6 @@ For comparison,
 + hyphen too
 + if we exclude Pinyin and its derivatives, this system is actually more in line with existing uses of the letters
 
-* ⟨v⟩ not used
-
 - mapping /k/ to ⟨q⟩ (and /-ng/ to ⟨g⟩) is unusual in the context of transcription of the sort
 - using ⟨x⟩ not as an alphabet is new
 
@@ -85,6 +83,7 @@ For comparison,
 * Be usable
 * Be typable with Qwerty keyboard for usability
 * Expanded letter should be typable with US international keyboard
+* Be compatible for passport names
 
 ## Roadmap
 + Re-evaluation of phonemes considering historic phones and phonemes.
