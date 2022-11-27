@@ -26,8 +26,8 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 | ê | ä |
 | er | r |
 | yai | iai |
-| o | uo |
-| io | io |
+| o | ow |
+| io | iow |
 | ri | j |
 | shi | sj |
 | si | su |
