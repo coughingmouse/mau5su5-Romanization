@@ -1,4 +1,4 @@
-# Mau\su\ Standard Mandarin Romanization
+# Mau\su\ Standard Chinese Romanization
 
 Yet Another Chinese Romanization
 
