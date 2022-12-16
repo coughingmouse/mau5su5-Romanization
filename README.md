@@ -1,6 +1,6 @@
-# Mau\su\ Standard Chinese Romanization
+# Mau\su\ Common Speech Alphabet
 
-Yet Another Chinese Romanization
+Yet Another Standard Chinese Romanization
 
 ## Description
 
@@ -10,6 +10,8 @@ I made it for just that, but I feel like it could be more useful so I've set mor
 
 ## Demonstration
 
+Alphabet: abcdefghijklmnopqrstuü{y}z-{1}/{2}v{3}\{5}x{0} (note that there is no ⟨w⟩)
+
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | ∅ | (?ux) | e- | a/ | eiv | ai\ | eux | au | en | an | eng | ang |
@@ -17,7 +19,7 @@ I made it for just that, but I feel like it could be more useful so I've set mor
 | w | o | oe | oa | oi | oai | | | on | oan | ong | oang |
 | y | ü | üe | | | | | | ün | üan | üng | |
 
-* Tones can be marked by 1 for in-ping/, 2 for iang/ping/, 3 for sjangv, and 5 for qü\. ⟨x⟩ is added after toneless (cing-) syllable.
+* Tones can be marked by ⟨1⟩ for in-ping/, ⟨2⟩ for iang/ping/, ⟨3⟩ for sjangv, and ⟨5⟩ for qü\. ⟨x⟩ is added after toneless (cing-) syllable, also markable with ⟨0⟩.
 
 Other phonemes are deriven from Pinyin but there are these following exceptions:
 
@@ -26,8 +28,8 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 | ê | ä |
 | er | r |
 | yai | iai |
-| o | ow |
-| io | iow |
+| o | ou |
+| io | iou |
 | ri | j |
 | shi | sj |
 | si | su |
