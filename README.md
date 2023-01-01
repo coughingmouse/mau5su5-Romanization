@@ -19,7 +19,7 @@ Alphabet: abcdefghijklmnopqrstuü{y}z-{1}/{2}v{3}\{5}x{0} (note that there is no
 | w | o | oe | oa | oi | oai | | | on | oan | ong | oang |
 | y | ü | üe | | | | | | ün | üan | üng | |
 
-* Tones can be marked by ⟨1⟩ for in-ping/, ⟨2⟩ for iang/ping/, ⟨3⟩ for sjangv, and ⟨5⟩ for qü\. ⟨x⟩ is added after toneless (cing-) syllable, also markable with ⟨0⟩.
+* Tones can be marked by ⟨1⟩ for in-ping/, ⟨2⟩ for iang/ping/, ⟨3⟩ for sjangv, and ⟨5⟩ for cü\. ⟨x⟩ is added after toneless (cing-) syllable, also markable with ⟨0⟩.
 
 Other phonemes are deriven from Pinyin but there are these following exceptions:
 
@@ -34,15 +34,15 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 | shi | sj |
 | si | su |
 | xi | si |
-| xu | sy |
+| xu | sü |
 | zhi | zj |
 | zi | zu |
 | ji | zi |
-| ju | zy |
+| ju | zü |
 | chi | cj |
 | ci | cu |
 | qi | ci |
-| qu | cy |
+| qu | cü |
 | g? | q? |
 
 * Every part of Standard Mandarin syllable should be present, especially the tonal markings.
