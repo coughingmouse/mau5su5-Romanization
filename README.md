@@ -26,7 +26,7 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 | else | |
 | - | - |
 | ê | ä |
-| er | ~r/er |
+| er | r |
 | yai | iai |
 | o | ou |
 | io | iou |
