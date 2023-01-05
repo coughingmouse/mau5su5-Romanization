@@ -14,12 +14,12 @@ Alphabet: abcdefghijklmnopqrstuü{y}z-{1}/{2}v{3}\{5}x{0} (note that there is no
 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
-| ∅ | (?ux) | e- | a/ | eiv | ai\ | eux | au | en | an | eng | ang |
+| ∅ | (?uh) | e- | a/ | eiv | ai\ | euh | au | en | an | eng | ang |
 | j | i | ie | ia | | | iu | iau | in | ian | ing | iang |
 | w | o | oe | oa | oi | oai | | | on | oan | ong | oang |
 | y | ü | üe | | | | | | ün | üan | üng | |
 
-* Tones can be marked by ⟨1⟩ for in-ping/, ⟨2⟩ for iang/ping/, ⟨3⟩ for sjangv, and ⟨5⟩ for cü\. ⟨x⟩ is added after toneless (cing-) syllable, also markable with ⟨0⟩.
+* Tones can be marked by ⟨1⟩ for in-ping/, ⟨2⟩ for iang/ping/, ⟨3⟩ for sjangv, and ⟨5⟩ for cü\. ⟨h⟩ is added after toneless (cing-) syllable.
 
 Other phonemes are deriven from Pinyin but there are these following exceptions:
 
@@ -44,6 +44,7 @@ Other phonemes are deriven from Pinyin but there are these following exceptions:
 | qi | ci |
 | qu | cü |
 | g? | q? |
+| h? | x? |
 
 * Every part of Standard Mandarin syllable should be present, especially the tonal markings.
 * ⟨y⟩ instead of ⟨ü⟩ and ⟨ae⟩ instead of ⟨ä⟩ can be used.
@@ -86,6 +87,7 @@ For comparison,
 * Be typable with Qwerty keyboard for usability
 * Expanded letter should be typable with US international keyboard
 * Be compatible for passport names
+* Be compatible with Iso's Korean romanization.
 
 ## Roadmap
 + Re-evaluation of phonemes considering historic phones and phonemes.
