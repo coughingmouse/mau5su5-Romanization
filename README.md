@@ -10,7 +10,7 @@ I made it for just that, but I feel like it could be more useful so I've set mor
 
 ## Demonstration
 
-Alphabet: abcdefghijklmnopqrstuü{y}z-{1}/{2}v{3}\{5}h{0} (note that there is no ⟨w⟩)
+Alphabet: aio eü{y}u mng bdq ptk szc fjx lr -{1} /{2} v{3} \{5} h{0} (note that there is no ⟨w⟩)
 
 |  | ∅ | ∅ | ∅ | i | i | o | o | n | n | ng | ng |
 | - | - | - | - | - | - | - | - | - | - | - | - |
